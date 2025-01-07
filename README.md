@@ -9,10 +9,15 @@
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
             <td>
-                <!-- Content goes here -->
                 This is a border box created using HTML.
             </td>
         </tr>
+        <tr>
+            <td>
+                This is a border box created using HTML.
+            </td>
+        </tr>
+        
     </table>
 </body>
 </html>
