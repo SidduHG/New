@@ -1,11 +1,13 @@
 <html>
-  <body>
+  <head>
     <style>
     div{
-    border:solid black;
+    border:solid white;
     border-radius:2px;
     }
-    </style>
+      </style>
+  </head>
+  <body>
     <div>
       <h2>Hello</h2>
       <p>
