@@ -1,3 +1,3 @@
-#amogh malagali
+amogh malagali
 
 
