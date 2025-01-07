@@ -1,10 +1,11 @@
 <html>
   <body>
-    .style{
+    <style>
     div{
     border:solid black;
     border-radius:2px;
     }
+    </style>
     <div>
       <h2>Hello</h2>
       <p>
